@@ -13,7 +13,7 @@ import static org.junit.Assert.assertThat;
 /**
  * Created by andreas.maier on 04.05.17.
  */
-public class RedissonIT {
+public class RedisIT {
 
     private RedisServer redisServer;
 
